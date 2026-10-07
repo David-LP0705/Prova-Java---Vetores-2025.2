@@ -51,8 +51,11 @@ O arquivo `Prova.java` reúne as funções pedidas e suas auxiliares:
 
 ## 🚀 Como Executar o Projeto
 
-1. Certifique-se de ter o **Java JDK** instalado em sua máquina.
+1. Certifique-se de ter o **Java JDK** instalado no seu computador.
 2. Clone este repositório executando o comando abaixo no seu terminal:
+
+```bash
+git clone https://github.com/David-LP0705/Prova-Java---Vetores-2025.2.git
 
 ```bash
 git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
