@@ -56,6 +56,3 @@ O arquivo `Prova.java` reúne as funções pedidas e suas auxiliares:
 
 ```bash
 git clone https://github.com/David-LP0705/Prova-Java---Vetores-2025.2.git
-
-```bash
-git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
